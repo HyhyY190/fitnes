@@ -43,7 +43,7 @@ if(isset ($_GET["Notif"]) && !empty ($_GET["Notif"])){
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Master Gym</title>
+  <title>PowerFlex</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -78,11 +78,11 @@ if(isset ($_GET["Notif"]) && !empty ($_GET["Notif"])){
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <span><b>Master Gym</b></span>
+    <span><b>PowerFlex</b></span>
   </div>
   <!-- /.login-logo -->
   <div class="bungkus login-box-body">
-  <center><img src="images/logo.jpg" width="150px" height="150px" style="color:black" class="img-login img-circle"></center><br>
+  <center><img src="images/powerflex.png" width="150px" height="150px" style="color:black" class="img-login img-circle"></center><br>
     <p class="login-box-msg">Sign in</p>
      <form action="login.php" method="post">
       <div class="form-group has-feedback">

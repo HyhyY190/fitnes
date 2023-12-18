@@ -28,7 +28,7 @@
         <div class="col-md-3 text-center">
             <img src="../images/logo.jpg" width="150px">
         </div>
-        <div class="col-md-6"><center><h1><p>Health Is Everithing<br> Fitness Center & Aerobic<br><b>MASTER GYM</b> </p></h1></center></div>
+        <div class="col-md-6"><center><h1><p>Health Is Everything<br> Fitness Center & Aerobic<br><b>PowerFlex</b> </p></h1></center></div>
             
 
         </div><!-- /.box-body -->

@@ -13,9 +13,9 @@ $user = mysqli_fetch_assoc($u);
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Master Gym</title>
+        <title>PowerFlex</title>
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-        <link rel="icon" type="image/x-icon" href="../images/logo.jpg" />
+        <link rel="icon" type="image/x-icon" href="../images/powerflex.png" />
 
         <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
         <link rel="stylesheet" href="../assets/css/bootstrap-datetimepicker.min.css" />
@@ -60,8 +60,8 @@ $user = mysqli_fetch_assoc($u);
         <div class="wrapper">
             <header class="main-header">
                 <a href="" class="logo">
-                    <span class="logo-mini" ><img src="../images/logo.jpg" style="border: none;" width="32" alt="MG" /></span>
-                    <span class="logo-lg">Master Gym<font size="1pt"></font></span>
+                    <span class="logo-mini" ><img src="../images/powerflex.png" style="border: none;" width="32" alt="MG" /></span>
+                    <span class="logo-lg">PowerFlex<font size="1pt"></font></span>
                 </a>
 
                 <nav class="navbar navbar-static-top" role="navigation">
@@ -237,7 +237,7 @@ $user = mysqli_fetch_assoc($u);
 
     <footer class="main-footer" >
       <div class="pull-right hidden-xs"></div>
-      <strong>Copyright &copy; <?php echo date("Y") ?> Master Gym <a href="../assets/img/barbel.jpg">Abdul Malik K.</a></strong>
+      <strong>Copyright &copy; <?php echo date("Y") ?> PowerFlex <a href="../assets/img/barbel.jpg">Fathin Izzulhaq & Imam Pamuji</a></strong>
     </footer>    
     </body>
 </html>
