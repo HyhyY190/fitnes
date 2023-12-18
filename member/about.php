@@ -26,7 +26,7 @@
         </div><!-- /.box-header -->
         <div class="box-body">
         <div class="col-md-3 text-center">
-            <img src="../images/logo.jpg" width="150px">
+            <img src="../images/powerflex.png" width="150px">
         </div>
         <div class="col-md-6"><center><h1><p>Health Is Everything<br> Fitness Center & Aerobic<br><b>PowerFlex</b> </p></h1></center></div>
             
@@ -59,7 +59,7 @@
     <div class="box-header">
     <h2><b><p align="center" >INFO LOKASI</p></b></h2><hr>
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d15810.687787015784!2d110.4142924!3d-7.824503849999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sid!2sid!4v1702863454909!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><p>Jl. Mawar Merah Raya No.3 RT 09/07 (Depan SMK Malaka 23/ITBU) Kel. Malaka Jaya - Jakarta Timur</p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d15810.687787015784!2d110.4142924!3d-7.824503849999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sid!2sid!4v1702863454909!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><p>Jl. Wiyoro Kidul RT 05, Baturetno, Banguntapan, Bantul.</p>
 <p>Telp. 081226840578</p>
       
     </div>
