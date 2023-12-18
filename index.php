@@ -55,21 +55,21 @@ if(isset ($_GET["Notif"]) && !empty ($_GET["Notif"])){
   
 <style>
   .login-page{
-    background: url(images/gg.jpeg);
+    background: url(images/gym.jpg);
     background-size: cover;
   }
   .login-logo b{
     margin: 80px 0 20px 0;
     color: white;
-    text-shadow: 2px 2px 4px red;
+    text-shadow: 2px 2px 4px blue;
   }
   .bungkus{
       min-height: 350px;
       width: 80%;
       margin: 0 auto 0 auto;
-      background: linear-gradient(45deg,salmon,orange);
+      background: linear-gradient(45deg,blue);
       border-radius: 10px;
-      border: 2px solid salmon;
+      border: 2px solid blue;
       box-shadow: 0px 0px 10px 2px gray;
 
 </style>
