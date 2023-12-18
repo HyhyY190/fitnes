@@ -55,7 +55,7 @@ if(isset ($_GET["Notif"]) && !empty ($_GET["Notif"])){
   
 <style>
   .login-page{
-    background: url(images/gym.jpg);
+    background: url(images/gym1.jpg);
     background-size: cover;
   }
   .login-logo b{
