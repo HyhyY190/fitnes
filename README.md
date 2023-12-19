@@ -3,9 +3,9 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1AbNZbaO_dxfCqQ-C1klHNChKicrXPAHq) 
 
-Screenshot 1               |  Screenshot 2
+Screenshot Sample 1               |  Screenshot Sample 2
 :-------------------------:|:-------------------------:
-![](https://drive.google.com/uc?export=view&id=1W_9D5WO7MLZvmZprFygcKA-_QxQ8F3OB)  |  ![](https://drive.google.com/uc?export=view&id=1W_9D5WO7MLZvmZprFygcKA-_QxQ8F3OB)
+![](https://drive.google.com/uc?export=view&id=1vSYeAOJ4AwdISfgV0Q5FnLtTh1Ba8pRl)  |  ![](https://drive.google.com/uc?export=view&id=1iQUda3e9dtTkCsXMdF9On2agY14tQmJH)
 ## 🎯Goals
 Create a website to provide a digital platform that makes interaction and management easy for members, trainers and fitness administration. This website allows quick access to membership information, schedules, facilities, and workout programs. This website is designed to facilitate close relationships between members and provide real benefits in achieving a healthy lifestyle.
 
