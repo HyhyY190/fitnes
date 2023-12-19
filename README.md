@@ -1,4 +1,4 @@
-# Fitness
+# PowerFlex: Health is Everything - Fitnes Center & Aerobic 💪
 
 ## 🎯Goals
 Create a website to provide a digital platform that makes interaction and management easy for members, trainers and fitness administration. This website allows quick access to membership information, schedules, facilities, and workout programs. This website is designed to facilitate close relationships between members and provide real benefits in achieving a healthy lifestyle.
