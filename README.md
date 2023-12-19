@@ -1,7 +1,8 @@
 # PowerFlex: Health is Everything - Fitnes Center & Aerobic 💪
 
 
-Picture 1                  |  Picture 2
+![image](https://drive.google.com/uc?export=view&id=1AbNZbaO_dxfCqQ-C1klHNChKicrXPAHq) 
+     Picture 1        |  Picture 2
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1W_9D5WO7MLZvmZprFygcKA-_QxQ8F3OB)  |  ![](https://drive.google.com/uc?export=view&id=1W_9D5WO7MLZvmZprFygcKA-_QxQ8F3OB)
 
