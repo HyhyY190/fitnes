@@ -27,7 +27,7 @@ Create a website to provide a digital platform that makes interaction and manage
   - Provide reports on facility usage, attendance, or member achievements.
   - Provide analytical data to help members and coaches optimize training programs.
 - Content Management:
-   -Makes it easier for administrators to manage website content such as articles, health tips.
+  - Makes it easier for administrators to manage website content such as articles, health tips.
 
 ## 👨‍💻Technology Used
 - PHP Native
