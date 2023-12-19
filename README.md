@@ -36,12 +36,6 @@ Create a website to provide a digital platform that makes interaction and manage
   - Makes it easier for administrators to manage website content such as articles, health tips.
 
 ## 👨‍💻Technology Used
-Screenshot Sample 1               |  Screenshot Sample 2
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)  |  HTML
-- PHP Native 
-- HTML
-- JavaScript
-- CSS
-- MySQL
+
+<img height="80" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">  <img height="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">  <img height="70" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">  <img height="80" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">  <img height="80" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">  <img height="80" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 
